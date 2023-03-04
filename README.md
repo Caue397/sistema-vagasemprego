@@ -1,2 +1,3 @@
-# sistema-vagasemprego
- Um sistema de criação de vagas de emprego feito em JavaScript
+# Sistema de vagas de emprego
+
+Um sistema de criação de vagas de emprego feito em **JavaScript**
